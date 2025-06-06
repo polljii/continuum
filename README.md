@@ -22,4 +22,4 @@
 
 ---
 
-![img1](https://github.com/polljii/continuum/blob/main/continuum1.png)
+![img1](https://github.com/polljii/continuum/blob/main/continuum2.png)
