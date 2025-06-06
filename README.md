@@ -23,9 +23,3 @@
 ---
 
 ![img1](https://github.com/polljii/continuum/blob/main/continuum1.png)
-
-![img2](https://github.com/polljii/continuum/blob/main/continuum2.png)
-
-![img3](https://github.com/polljii/continuum/blob/main/continuum3.png)
-
-![img4](https://github.com/polljii/continuum/blob/main/continuum4.png)
